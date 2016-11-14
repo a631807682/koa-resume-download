@@ -1,11 +1,11 @@
 koa-resume-download
 ==================
-koa断点续传服务,未添加测试代码
+koa断点续传服务
 
 
 使用方法
 ------------------
->npm install https://github.com/a631807682/koa-resume-download.git
+>npm install koa-resume-download
 
 示例代码
 ------------------
