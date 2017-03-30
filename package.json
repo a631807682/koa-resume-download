@@ -1,11 +1,15 @@
 {
-  "name": "koa-resume-download",
-  "version": "0.0.2",
-  "description": "support content-range to download file",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "cr.",
-  "license": "ISC"
+    "name": "koa-resume-download",
+    "version": "0.0.5",
+    "description": "support content-range to download file",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/a631807682/koa-resume-download",
+    "bugs": {
+        "url": "https://github.com/a631807682/koa-resume-download/issues"
+    },
+    "author": "cr.",
+    "license": "ISC"
 }
