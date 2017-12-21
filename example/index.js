@@ -9,7 +9,7 @@ app.use(function*(next) {
 
     let opts = {
         headers: {
-            'Content-disposition': 'attachment; filename=mysql.zip'
+            'token': '1f0b8af0e60311e786d0d5c0d763be5f'
         }
     };
 
